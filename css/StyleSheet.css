@@ -1,0 +1,6 @@
+body {
+    position: relative;
+    background-image: url(../img/ironman/fondo.jpg);
+    background-repeat: no-repeat;
+    max-width: 1024px;
+}
